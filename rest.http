@@ -1,0 +1,4 @@
+GET http://localhost:3000/test
+Authorization: Bearer IIRZfoy2BzYEGbXMdFnOpHitRXi1
+###
+GET http://localhost:3000/
